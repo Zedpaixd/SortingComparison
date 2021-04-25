@@ -21,4 +21,4 @@ The folder "dataset" is missing
 Fix: Make sure not to put the executable in the dataset folder.
 
 
-Project made in collaboration with Zapper (Alin)
+Made in collaboration with Zapper (Alin)
