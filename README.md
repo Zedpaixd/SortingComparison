@@ -19,6 +19,3 @@ Fix: Download the file from dll-files and put them in the required folders, lots
 The folder "dataset" is missing
 
 Fix: Make sure not to put the executable in the dataset folder.
-
-
-Made in collaboration with Zapper (Alin)
